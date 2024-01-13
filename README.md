@@ -1,11 +1,5 @@
 # Complete E-commerce website in  Laravel 10
 
-## Demo website :
-+ Link:https://nguyenthanhduy.id.vn
-+ Account (pass = 123):
-+ admin@gmail.com
-+ user@gmail.com
-  
 ## database
 ![database complete ecommerce](https://github.com/1119-DuyNguyen/complete-ecommerce-lar/assets/62139508/00f61e19-6c71-471d-ac26-1687a8a34115)
 
